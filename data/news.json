@@ -1,0 +1,10 @@
+{
+    "id": 38,
+    "content": "Sakai Free Admin Template",
+    "linkText": "Learn More",
+    "linkHref": "https://www.youtube.com/watch?v=ucCh9IxzLFIe",
+    "backgroundStyle": "background-color:#07c4e8",
+    "textStyle": "color:#191919;font-weight:500",
+    "linkStyle": "color:#191919;font-weight:700",
+    "linkHoverStyle": "text-decoration: underline"
+}
